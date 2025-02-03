@@ -1,7 +1,7 @@
 # Fourier Neural Operator for Navier-Stokes Equation
 
 ## Overview
-This repository is based on the original implementation of the Fourier Neural Operator (FNO), available at [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator.git). The theoretical foundation of this work is presented in the following paper:
+This repository is based on the original implementation of the Fourier Neural Operator (FNO), available at [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator.git). The theoretical foundation is presented in the following paper:
 
 **Original Paper: "Fourier Neural Operator for Parametric Partial Differential Equations"**  
 [Paper Link](https://arxiv.org/abs/2010.08895)  
