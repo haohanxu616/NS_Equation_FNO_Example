@@ -18,8 +18,8 @@ The dataset for the Navier-Stokes equation is available for download from Zenodo
 [Zenodo Dataset](https://zenodo.org/records/12825163)
 
 ## My Codes for Examples
-- **`data/datasets/NS_Equation_spec.ipynb`**: This notebook applies spectrum analysis to study the distribution of energy across different scales in a fluid flow.
-- **`data/datasets/NS_FNO_LOSS.ipynb`**: This notebook implements an FNO-based training setup for solving the Navier-Stokes equation with the Zenodo dataset.
+- **`Examples/NS_Equation_spec.ipynb`**: This notebook applies spectrum analysis to study the distribution of energy across different scales in a fluid flow.
+- **`Examples/NS_FNO_LOSS.ipynb`**: This notebook implements an FNO-based training setup for solving the Navier-Stokes equation with the Zenodo dataset.
 
 ## Computational Setup
 The provided implementation is tested on a **CPU**. For better performance, using a **GPU** is highly needed.
