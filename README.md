@@ -17,7 +17,7 @@ The required `neuralop` library can be installed following the instructions prov
 The dataset for the Navier-Stokes equation is available for download from Zenodo:  
 [Zenodo Dataset](https://zenodo.org/records/12825163)
 
-## Code Structure
+## My Code
 - **`data/datasets/NS_Equation_spec.ipynb`**: This notebook applies spectrum analysis to study the distribution of energy across different scales in a fluid flow.
 - **`data/datasets/NS_FNO_LOSS.ipynb`**: This notebook implements an FNO-based training setup for solving the Navier-Stokes equation with the Zenodo dataset.
 
