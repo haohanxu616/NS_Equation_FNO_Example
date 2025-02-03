@@ -7,7 +7,7 @@ This repository is based on the original implementation of the Fourier Neural Op
 [Paper Link](https://arxiv.org/abs/2010.08895)  
 Authors: Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar
 
-This repository includes some additional codes to facilitate quick adjustments and modifications in further research.
+This repository adds some additional codes including NO models, data and loss models from [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator.git) to facilitate further research and study.
 
 ## Installation
 The required `neuralop` library can be installed following the instructions provided in the official documentation:  
